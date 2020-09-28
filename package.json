@@ -1,5 +1,5 @@
 {
-  "name": "vibranium",
+  "name": "dsc",
   "version": "1.0.0",
   "description": "Website for DSC SubSaharan Africa",
   "main": "gulpfile.js",
@@ -16,7 +16,7 @@
     "dsc",
     "unilag"
   ],
-  "author": "",
+  "author": "dsc-lu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kelvinkamau/Vibranium/issues"
